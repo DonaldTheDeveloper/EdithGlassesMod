@@ -28,3 +28,7 @@ not affiliated with or endorsed by Marvel or Disney. No film footage, audio or a
 EDITH can talk to AI services (Groq, Google Gemini, OpenAI, Anthropic, OpenRouter, Mistral, DeepSeek, xAI, Cerebras,
 Together AI, or a local Ollama server) using API keys that the player supplies. Those services have their own terms.
 No keys are included in this repository.
+
+## AI assistance
+
+Generative AI (Claude, by Anthropic) was used to help write the code and generate the models, textures, logo and banner.

@@ -66,6 +66,11 @@ python tools/gen_menu_theme.py <path to minecraft-client.jar>
 - `tools/` - scripts that generated the models, textures and several patches (kept for reference)
 - `logo/` - the logo and banner, and the scripts that made them
 
+## AI disclosure
+
+This project was developed with the help of generative AI (Claude, by Anthropic). The code, models and textures
+were generated and iterated with it, and reviewed and tested by the author.
+
 ## Licence
 
 MIT, see [LICENSE](LICENSE). Third-party material: see [CREDITS.md](CREDITS.md).
