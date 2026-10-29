@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "edithglasses",
+  "icon": "assets/edithglasses/icon.png",
+  "version": "${version}",
+  "name": "EDITH Glasses (with Chat Translator)",
+  "description": "Spyglass becomes EDITH smart glasses with HUD, zoom and a voice assistant; includes the Chat Translator.",
+  "authors": [
+    "Donald_The_Ducky"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.edithglasses.EdithGlassesClient",
+      "com.example.chattranslator.ChatTranslatorClient"
+    ]
+  },
+  "mixins": [
+    "edithglasses.mixins.json",
+    "chattranslator.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

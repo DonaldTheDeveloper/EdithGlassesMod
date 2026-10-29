@@ -1,0 +1,14 @@
+{
+  "key.category.edithglasses.main": "EDITH Glasses",
+  "key.edithglasses.menu": "Open the EDITH menu (all features)",
+  "key.edithglasses.ptt": "Talk to EDITH (hold, glasses must be on)",
+  "key.edithglasses.confirm": "Confirm what EDITH asked (instant)",
+  "key.edithglasses.cancel": "Cancel what EDITH asked",
+  "key.edithglasses.night": "Toggle EDITH night vision (glasses on)",
+  "key.edithglasses.thermal": "Toggle EDITH thermal vision (glasses on)",
+  "key.edithglasses.xray": "Toggle EDITH x-ray ore overlay (glasses on)",
+  "key.edithglasses.guard": "Toggle EDITH Sentinel (run from weapons, glasses on)",
+  "key.edithglasses.camera": "Advanced camera mode (glasses on)",
+  "key.edithglasses.photo": "EDITH photo (glasses on)",
+  "key.edithglasses.recon": "Launch / recall recon drone (glasses on)"
+}

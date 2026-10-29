@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.edithglasses.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["HudMixin", "MouseHandlerMixin", "CameraMixin", "UseItemMixin",
+    "DamageEventMixin",
+    "HudCleanMixin",
+    "ToastCleanMixin",
+    "ChatCleanMixin", "LivingRendererMixin", "ItemModelResolverMixin", "LightmapMixin", "GlowMixin", "HudHideMixin", "ThemeTextMixin", "ThemeBackgroundMixin", "TeamColorMixin", "CameraAccessor"],
+  "injectors": { "defaultRequire": 1 }
+}

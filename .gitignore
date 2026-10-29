@@ -1,0 +1,32 @@
+# Gradle / build output
+.gradle/
+build/
+*.log
+
+# Dev run directory (contains configs, API keys, worlds, screenshots)
+run/
+
+# Scratch / generated
+tools/__pycache__/
+logo/prev.png
+logo/sheet.png
+logo/t_*.png
+logo/skin_preview.png
+*.blend1
+EdithGlasses-ResourcePack.zip
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Not for the public repo
+# - the original BlenderKit model (Royalty Free licence: not to be redistributed as a file)
+tools/*.glb
+tools/*.blend
+# - recoloured Mojang GUI textures: generate them locally with tools/gen_menu_theme.py
+src/main/resources/resourcepacks/edith_menu/assets/
+# - personal files
+logo/skin*.png
