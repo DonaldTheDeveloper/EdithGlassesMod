@@ -9,6 +9,11 @@
     "Donald_The_Ducky"
   ],
   "license": "MIT",
+  "contact": {
+    "homepage": "https://github.com/DonaldTheDeveloper/EdithGlassesMod",
+    "sources": "https://github.com/DonaldTheDeveloper/EdithGlassesMod",
+    "issues": "https://github.com/DonaldTheDeveloper/EdithGlassesMod/issues"
+  },
   "environment": "client",
   "entrypoints": {
     "client": [
